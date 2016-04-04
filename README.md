@@ -11,18 +11,18 @@ Functionality:
 
 TODO
 
-main activity
+main activity:
 
-	- each entry of the list shows some time info about time period and if you exceeded the limit in that period spent/limit
-	- tap entry to see detailed info of that entry
-	- can add tag message to every purchase
+- each entry of the list shows some time info about time period and if you exceeded the limit in that period spent/limit
+- tap entry to see detailed info of that entry
+- can add tag message to every purchase
 
-	main view
-		- shows all days days and how much you have spent during each day in each category
-		- there is a week separator that shows the same info for the whole week
-		- there is a week separator that shows the same info for the whole month
+main view
+	- shows all days days and how much you have spent during each day in each category
+	- there is a week separator that shows the same info for the whole week
+	- there is a week separator that shows the same info for the whole month
 
-	[weeks, months view]
+[weeks, months view]
 	
 	
 
